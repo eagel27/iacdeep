@@ -375,7 +375,62 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
 ---
 
 <br>
-# Call for Abstracts
+# Team members
+
+Current team members are:
+
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/francois_lanusse_square2.png"/>
+    <br>
+    <h5>Francois Lanusse</h5>CNRS (Co-Chair)
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/iacdeep/assets/huertas-company.png"/>
+    <br>
+    <h5>Marc Huertas-Company</h5>IAC (Co-Lead)
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/menard.jpeg"/>
+    <br>
+    <h5>Brice Ménard</h5> Johns Hopkins University
+  </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/Levasseur_Laurence-509x676.jpg"/>
+    <br>
+    <h5>Laurence Perreault-Levasseur</h5> University of Montreal
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/X-prochaska.jpeg"/>
+    <br>
+    <h5>Xavier J. Prochaska</h5> UC Santa-Cruz
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/useljak.png"/>
+    <br>
+    <h5>Uros Seljak</h5>UC Berkeley
+  </div>
+</div>
+<br>
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/villaescusa.png"/>
+    <br>
+    <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
+  </div>
+  <div class="col center-block text-center">
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/avillar.jpg"/>
+    <br>
+    <h5>Ashley Villar</h5>Pennsylvania State University
+  </div>
+</div>
+</div>
 
 We invite all contributions in connection with the theme of the workshop as described [here](#rationale).
 
