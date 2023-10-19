@@ -34,7 +34,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 ### Invited Speakers and Panelists
 
-{google_docs}https://docs.google.com/spreadsheets/d/17h3ocVxBnl2KqimTN7uljPP8OilUPz34hGnzPtXHsVM/edit?usp=sharing{/google_docs}
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOG3qUlK87cqUNnrQuKIHNU0pl2HNVE6iSyUgnnH5SYjG0pMCnxt11ysdtDgcSq2GS7m-68lP-gPqe/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <div class="container">
 <div class="row no-gutters">
