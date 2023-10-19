@@ -377,8 +377,6 @@ All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/
 
 We invite all contributions in connection with the theme of the workshop as described [here](#rationale).
 
-{google_docs}https://docs.google.com/spreadsheets/d/17h3ocVxBnl2KqimTN7uljPP8OilUPz34hGnzPtXHsVM/edit?usp=sharing{/google_docs}
-
 An important selection criterion will be the novelty of the work - novel methodologies and novel applications. Applications of standard and established deep learning techniques to a new astrophysical data set are not considered as novel applications in this context.
 
 Original contributions and early research works are encouraged. Contributions presenting recently published or currently under review results are also welcome. The workshop will not have formal proceedings, but accepted submissions will be linked on the workshop webpage.
