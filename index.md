@@ -35,6 +35,7 @@ We meet every Thursday at 12pm (WET)
     </tr>
     <tr>
       <th scope="row"><nobr>Andrés Asensio-Ramos</nobr> </th>
+      <td>Faculty</td>
       <td>Solar Physics</td>
     </tr>     
     <tr>
