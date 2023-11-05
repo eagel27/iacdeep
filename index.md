@@ -29,24 +29,23 @@ We meet every Thursday at 12pm (WET)
 <table class="table table-striped">
   <tbody>      
     <tr>
-      <th scope="row"><nobr>9:00:9:05</nobr> </th>
-      <td>Introduction</td>
-      <td>Welcome and Introduction of the Workshop</td>
+      <th scope="row"><nobr>Marc Huertas-Company</nobr> </th>
+      <td>Faculty</td>
+      <td>Galaxy Evolution</td>
     </tr>
     <tr>
-      <th scope="row"><nobr>9:05-9:35</nobr> </th>
-      <td>Keynote</td>
-      <td><b>Chelsea Finn</b>: Detecting and Adapting to Distribution Shift</td>
+      <th scope="row"><nobr>Andrés Asensio-Ramos</nobr> </th>
+      <td>Solar Physics</td>
     </tr>     
     <tr>
-      <th scope="row"><nobr>9:35-9:50</nobr> </th>
-      <td>Spotlight</td>
-      <td><b>Vidhi Ramesh</b>: <a href='/icml2023/assets/81.pdf'>Shared Stochastic Gaussian process Decoders: A Probabilistic Generative model for Quasar Spectra</a></td>
+      <th scope="row"><nobr>Carlos Westendorp</nobr> </th>
+      <td>Faculty</td>
+      <td>Multi Disciplinary ML applications</td>
     </tr> 
     <tr>
-      <th scope="row"><nobr>9:50-10:05</nobr> </th>
-      <td>Spotlight</td>
-      <td><b>Yitian Sun</b>: <a href='/icml2023/assets/52.pdf'>Disentangling gamma-ray observations of the Galactic Center using differentiable probabilistic programming</a> </td>
+      <th scope="row"><nobr>Jesús Falcón-Barroso</nobr> </th>
+      <td>Faculty</td>
+      <td>Galaxy Evolution</td>
     </tr>
     <tr>
       <th scope="row"><nobr>10:05-10:30</nobr> </th>
