@@ -5,10 +5,12 @@ background: "/assets/background.jpg"
 
 # About
 
-At IAC-Deep we work with and develop AI approaches to analyze and interpret astrphysica data, from solar physics to cosmology.
+At IAC-Deep we work with and develop AI approaches to analyze and interpret astrophysical data, from solar physics to cosmology.
 <br>
 
-# Schedule
+# Meetings
+
+We meet every Thursday at 12pm (WET)
 
 <style>
 .responsive-iframe {
@@ -18,15 +20,11 @@ At IAC-Deep we work with and develop AI approaches to analyze and interpret astr
 }
 </style>
 
-<iframe class="responsive-iframe"
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOG3qUlK87cqUNnrQuKIHNU0pl2HNVE6iSyUgnnH5SYjG0pMCnxt11ysdtDgcSq2GS7m-68lP-gPqe/pubhtml?gid=0&single=true&widget=true&headers=false">
-</iframe>
-
+<iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOG3qUlK87cqUNnrQuKIHNU0pl2HNVE6iSyUgnnH5SYjG0pMCnxt11ysdtDgcSq2GS7m-68lP-gPqe/pubhtml?gid=0&single=true&widget=true&headers=false&chrome=false"></iframe>
 
 
 ### Team members
 
-All times are in Hawaii Time. Please visit the <a href="https://icml.cc/virtual/2023/workshop/21497">ICML Workshop Page</a> for live schedule (requires registration).
 
 <table class="table table-striped">
   <tbody>      
