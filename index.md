@@ -78,6 +78,6 @@ We meet every Thursday at 12pm (WET)
 </table>
 
 
-### Featured research
+# Featured research
 
 
