@@ -23,7 +23,7 @@ We meet every Thursday at 12pm (WET)
 <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOG3qUlK87cqUNnrQuKIHNU0pl2HNVE6iSyUgnnH5SYjG0pMCnxt11ysdtDgcSq2GS7m-68lP-gPqe/pubhtml?gid=0&single=true&widget=true&headers=false&chrome=false"></iframe>
 
 
-### Team members
+# Team members
 
 
 <table class="table table-striped">
