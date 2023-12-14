@@ -49,7 +49,7 @@ We meet every Thursday at 12pm (WET)
       <td>Galaxy Evolution</td>
     </tr>
     <tr>
-      <th scope="row"><nobr>Ignacion Ferreras</nobr> </th>
+      <th scope="row"><nobr>Ignacio Ferreras</nobr> </th>
       <td>Faculty</td>
       <td>Galaxy Evolution</td>
     </tr>
