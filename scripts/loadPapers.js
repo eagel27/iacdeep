@@ -17,6 +17,7 @@ function fetchNasaAdsPapers() {
 	    headers: {
 	        'Authorization': `Bearer ${apiToken}`,
 	        'Content-Type': 'application/json',
+		'Access-Control-Allow-Origin': 'https://eagel27.github.io/iacdeep/'
 	    },
 	})
 	    .then(response => {
