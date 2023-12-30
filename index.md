@@ -80,4 +80,10 @@ We meet every Thursday at 12pm (WET)
 
 # Featured research
 
+<h1>NASA ADS Papers</h1>
+<script src="/scripts/loadPapers.js"></script>
+<script>
+    // Call the fetchNasaAdsPapers function when the page loads
+    window.onload = fetchNasaAdsPapers;
+</script>
 
